@@ -1,0 +1,4 @@
+*.xlsx
+.DS_Store
+mann.py
+*.pyc
